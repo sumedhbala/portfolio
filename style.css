@@ -1,0 +1,14 @@
+hr {
+    border: 3px solid;
+}
+.blue_gray_text {
+    color: #7d97ad;
+}
+.light_black_text {
+    color: #2d3c49;
+}
+.blue_gray_all {
+    border-color: #7d97ad;
+    background-color: #7d97ad;
+    color: #7d97ad;
+}

@@ -19,3 +19,7 @@ hr {
 .top-buffer-30px {
   margin-top: 30px;
 }
+
+.border-color-transparent {
+  border-color: transparent;
+}
